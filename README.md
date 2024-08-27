@@ -1,2 +1,2 @@
-# Javascript-basics-to-advance-in-2-months
+# Javascript-basics-to-advance
 Learn JS and understand the flow of backend development
