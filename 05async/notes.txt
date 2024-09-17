@@ -1,0 +1,9 @@
+Js -> Synchronous, Single-threaded
+Each line wait for previous line to execute
+Blocking Code->Synchronous vs. Non-Blocking Code->Asynchronous
+
+File system
+Reading a file -> Program passes the context to kernel , it performs reading the file
+and then pass the context back to program to excute further.
+
+Js engine -> Callstack + Memory heap.
