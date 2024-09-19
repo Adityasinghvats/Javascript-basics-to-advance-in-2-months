@@ -7,3 +7,5 @@ Reading a file -> Program passes the context to kernel , it performs reading the
 and then pass the context back to program to excute further.
 
 Js engine -> Callstack + Memory heap.
+
+Async js is available through browser apis like setTimeout clearTimeout etc.
