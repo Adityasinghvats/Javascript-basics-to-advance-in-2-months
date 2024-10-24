@@ -5,6 +5,7 @@ function Animal(species){
     this.species = species;
 }
 
+// Prototypal chain
 Animal.prototype.sound = function(){
     return `${this.species} makes a sound`;
 }

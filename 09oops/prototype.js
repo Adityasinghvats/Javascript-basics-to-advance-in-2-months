@@ -1,8 +1,6 @@
 // Javascript supports all oops but behind the scene it is all prototype based
 // prototype -> extra functionality in any given data type or used defined data type
-let computer = {
-    cpu: 12,
-};
+let computer = {cpu: 12};
 let lenovo = {
     screen: "HD",
     __proto__: computer //access all properties of computer
