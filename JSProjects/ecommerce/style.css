@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: slateblue;
+}
+.container{
+    padding: 16px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+.hidden{ 
+    display: none;
+}
+#product-list{
+    background-color: cadetblue;
+    padding: 16px;
+    border-radius: 16px;
+}
+#product-list span{
+    margin-bottom: 8px;
+    padding: 6px;
+}
+button{
+    margin-bottom: 8px;
+    background: red;
+    border-radius: 6px;
+    padding: 6px;
+}
+#cart-items{
+    background-color: cadetblue;
+    padding: 16px;
+    border-radius: 16px;
+}
+#cart-items span{
+    margin-bottom: 8px;
+    padding: 6px;
+}
+button{
+    margin-bottom: 8px;
+    background: red;
+    border-radius: 6px;
+    padding: 6px;
+}

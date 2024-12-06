@@ -1,0 +1,27 @@
+body{
+    background-color: slategrey;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    background-color: slateblue;
+    padding: 16px;
+    border-radius: 16px;
+}
+#answer-list li{
+    background-color: slategrey;
+    padding: 4px;
+    margin-bottom: 3px;
+    border-radius: 4px;
+}
+.hidden{
+    display: none;
+}
+
+button{
+    background-color: burlywood;
+    padding: 4px;
+    border-radius: 4px;
+}
